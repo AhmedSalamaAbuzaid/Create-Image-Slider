@@ -1,7 +1,7 @@
 # Create-Image-Slider
 very simple tutorial how to make image slider ... 
 
-#Step 1: Create the basic layout of the image slider
+# Step 1: Create the basic layout of the image slider
 
 Copy the HTML programming code below and then paste it into your HTML file. Here I have used the CSS code below which was originally used to design the background and to give this slider a shape.
 You can see below I have used the width:800px and height 400px. If you want to increase or decrease the size of this slider, you can increase or decrease that amount.
@@ -26,7 +26,7 @@ You can see below I have used the width:800px and height 400px. If you want to i
 }
 ```
 
-#Step 2: Add Prev and Next buttons
+# Step 2: Add Prev and Next buttons
 
 I have used two buttons here as you saw in the demo above. I used the following HTML programming code to make these two buttons. Below I have added some amount of CSS code which was originally used to design this button.
 
@@ -72,7 +72,7 @@ In this case you will see that the font-size is 25 px. If you want to increase t
 }
 ```
 
-#Step 3: Add the required images and text in the slider
+# Step 3: Add the required images and text in the slider
 
 I added the images with this image slider using the HTML code below and added some amount of description along with it. There are different descriptions for each image. The description will change as you change the images.
 
