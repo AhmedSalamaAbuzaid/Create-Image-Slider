@@ -1,4 +1,4 @@
-# Create-Image-Slider
+## Create-Image-Slider
 very simple tutorial how to make image slider ... 
 
 # Step 1: Create the basic layout of the image slider
